@@ -5,4 +5,4 @@ Must get a credentials.json from Google before using (template given will not wo
 
 Requires Python 3.11 (3.12 will not work yet).
 
-'setup.py' usage is deprecated (11/15/2023).
+`setup.py` usage is deprecated (11/15/2023).
